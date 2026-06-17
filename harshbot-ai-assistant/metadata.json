@@ -1,0 +1,6 @@
+{
+  "name": "HarshBot AI Assistant",
+  "description": "A futuristic Jarvis-inspired premium companion for developers to master advanced Python parameters, DSA algorithms, machine learning matrices, system architectures, and upstream workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
